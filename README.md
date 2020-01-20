@@ -5,12 +5,12 @@ This tool is a command line application that builds a square grid on terminal at
 move the curser by pressing associated letters on keyboard. The cursor is initially on the top left corner of the grid.
 See below for the letters and associated functionality:
 
-⋅⋅* u: Moves up
-⋅⋅* d: Moves down
-⋅⋅* l: Moves left
-⋅⋅* r: Moves right
-⋅⋅* p: Prints the cursor path
-⋅⋅* e: Exits the program
+- u: Moves up
+- d: Moves down
+- l: Moves left
+- r: Moves right
+- p: Prints the cursor path
+- e: Exits the program
 
 Pressing any other key returns an error informing the user that the letter wasn't recognised.
 
